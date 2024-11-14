@@ -2,7 +2,7 @@
     
 Este directorio contiene el proyecto completo del manual de asignatura.
 
-manual-asignatura/
+MA-Transferencia_de_Calor/
 ├── docs/                      # Documentación del proyecto
 │   ├── guidelines/           # Guías de estilo y formato
 │   ├── templates/           # Plantillas (markdown, latex)
